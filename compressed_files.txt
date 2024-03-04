@@ -1,0 +1,2 @@
+system/app/Chrome/Chrome.apk.xz
+system/priv-app/Velvet/Velvet.apk.xz
